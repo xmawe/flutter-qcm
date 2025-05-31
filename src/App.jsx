@@ -42,7 +42,7 @@ function App() {
   return (
     <div className="flex flex-col justify-center gap-6 my-8 mx-3">
       <div className="m-auto text-gray-100 max-w-xl w-full text-2xl">
-        <h1>preparation for the MD exam</h1>
+        <h1>Preparation for the MD exam</h1>
         <h2 className="text-lg text-gray-400">
           Total number of Questions: {questions.length}
         </h2>
