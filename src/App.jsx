@@ -42,9 +42,9 @@ function App() {
   return (
     <div className="flex flex-col justify-center gap-6 my-8 mx-3">
       <div className="m-auto text-gray-100 max-w-xl w-full text-2xl">
-        <h1>Huawei HCIA-AI V3.0 Exam</h1>
+        <h1>preparation for the MD exam</h1>
         <h2 className="text-lg text-gray-400">
-          Product Questions: {questions.length}
+          Total number of Questions: {questions.length}
         </h2>
         <div className="m-auto mt-4 justify-between flex gap-3 text-gray-100 max-w-xl w-full text-2xl">
           <div>
